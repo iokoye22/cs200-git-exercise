@@ -1,6 +1,6 @@
 '''
 Runs 50 times, creating a file with contents 
-"This file was created on [STUDENT]'s computer at [TIME] in [LOCATION]"
+"This file was created on Ike's computer at 1:57pm in London"
 '''
 
 from datetime import datetime
